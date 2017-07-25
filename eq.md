@@ -3,11 +3,11 @@
 | Step | Formula                                 | Data Type |
 | ---- | --------------------------------------- | --------- |
 |      |                                         | bool      |
-|      | v~m~  = $\frac{1}{\frac{t_{a}}{t_{t}}}$ | uint      |
+|      | v~m~  = 1/t<sub>a</sub>/t<sub>t</sub> | uint      |
 |      |                                         |           |
 |      |                                         |           |
 
-v~m~ = Vote Multiple
+v<sub>m</sub> = Vote Multiple
 
 t~a~ = Tokens Approve
 
